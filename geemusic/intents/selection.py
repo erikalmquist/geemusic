@@ -16,11 +16,11 @@ def login():
 @ask.intent("AMAZON.HelpIntent")
 def help():
     text = ''' Here are some things you can say:
-                Play songs by Radiohead,
-                Play the album Science For Girls,
-                Play the song Fitter Happier,
-                Start a radio station for artist Weezer,
-                Start playlist Dance Party,
+                Play songs by Bill Evans,
+                Play the album Kind of Blue,
+                Play the song My Romance,
+                Start a radio station for artist Cannonball Adderley,
+                Start playlist Dance Yay,
                 and play some music,
 
                 Of course you can also say skip, previous, shuffle, and more
